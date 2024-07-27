@@ -4,3 +4,6 @@ node_modules
 /packages/*/*.css
 /packages/*/*.map
 /public
+!event-calendar.min.css
+!event-calendar.min.js
+!event-calendar.min.js.map
